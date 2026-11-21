@@ -1,0 +1,7 @@
+# File sistem dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Jangan unggah file database lokal atau backup
+*.sql~
