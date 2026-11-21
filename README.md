@@ -80,6 +80,3 @@ Tombol **Hapus** menjalankan file `hapus.php` berdasarkan ID barang. Aplikasi me
 
 ## Hasil Praktikum
 Aplikasi dapat menampilkan daftar barang dan melakukan tambah, ubah, serta hapus data. Data tersimpan pada database MySQL sehingga perubahan dapat dilihat kembali melalui aplikasi.
-
-## Catatan Screenshot
-Folder `screenshots/` sudah disiapkan. Isi dengan screenshot hasil pengerjaan sendiri pada setiap langkah. Nama file screenshot mengikuti daftar di atas.
